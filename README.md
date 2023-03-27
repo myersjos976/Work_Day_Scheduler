@@ -4,7 +4,8 @@
 Creates a dynamically updated calendar for users to save events for each hour of the day. Past events are marked in gray, current events are marked in red, and future events are marked in green. This site is powered by jQuery and uses the Day.js library to work with date and time.
 
 ## Screenshot
-![image](https://user-images.githubusercontent.com/122832005/228051568-87d53f85-0a09-4c93-b360-8d524f94a0cc.png)
+![image](https://user-images.githubusercontent.com/122832005/228052552-402e02ee-cf74-4a0e-b3fc-bc4596471e2f.png)
+
 
 ## Table of Contents
 - [Installation](#installation)

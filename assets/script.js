@@ -35,7 +35,6 @@ $(function () {
   {
     const dayjsObj = dayjs();
     var currentHour = parseInt(dayjsObj.format("H"));
-    console.log(currentHour);
     currentDate.text(dayjsObj.format("dddd, MMMM D, YYYY"));
 
     for (var i = 0; i < 9; i++)

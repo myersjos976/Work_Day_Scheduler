@@ -1,4 +1,4 @@
-# Challenge-03_Password_Generator
+# Challenge-05_Work_Day_Scheduler
 
 ## Description
 Creates a dynamically updated calendar for users to save events for each hour of the day. Past events are marked in gray, current events are marked in red, and future events are marked in green. This site is powered by jQuery and uses the Day.js library to work with date and time.
